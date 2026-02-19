@@ -4,6 +4,10 @@
 *.tfstate.*
 crash.log
 .terraform.lock.hcl
+*.pem
+*.tfvars
+tfplan
+
 
 # Mac
 .DS_Store
